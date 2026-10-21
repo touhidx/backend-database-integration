@@ -1,0 +1,12 @@
+{
+  "name": "backend-database-integration",
+  "version": "0.0.1",
+  "description": "Full-stack backend integration project built with Node.js, Express.js, and MongoDB, covering REST APIs, client-server communication, GET/POST requests, and database operations.",
+  "license": "ISC",
+  "author": "touhidx",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
